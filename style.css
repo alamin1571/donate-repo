@@ -24,7 +24,7 @@ body{
 }
 .style{
   display:grid ; justify-content:center;
-  font-size: 30px;
+  font-size: 20px;
 }
 .aligen{
   text-align: center;
@@ -32,4 +32,54 @@ body{
 }
 .place{
   text-align: center;
+}
+.text-align{
+  text-align: center ;  
+  padding-bottom: 10px;
+}
+.tk{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 40px;
+  padding-bottom: 30px
+}
+.atk{
+  padding: 30px 30px;
+}
+.btk{
+padding: 30px 30px;
+border: 2px solid tomato;
+border-radius: 5px;
+
+}
+.ctk{
+  padding: 30px 30px;
+}
+.dtk{
+  padding: 30px 30px;
+}
+.etk{
+  padding: 30px 30px;
+}
+#padding{
+  padding-top: 50px;
+}
+.o-style{
+  text-align: center;
+  padding: 10px 10px;
+}
+.gob{
+  text-align: center;
+}
+.experence-item{
+  display: flex;
+}
+.justify{
+  text-align: justify;
+}
+.padd{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 50px;
 }
