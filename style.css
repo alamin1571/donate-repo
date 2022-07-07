@@ -13,6 +13,7 @@
 }
 body{
   margin: 0%;
+ 
 }
 .link-button{
   text-decoration: none;
@@ -82,4 +83,50 @@ border-radius: 5px;
   padding-right: 30px;
   padding-top: 20px;
   padding-bottom: 50px;
+}
+
+.half-width img{
+width: 100%;
+}
+.half-width{
+  display: flex;
+  width: 50%;
+  padding-left: 5%;
+}
+.side{
+  padding-top: 30px;
+}
+.wife img{
+width:70%;
+}
+.wife{
+  display: flex;
+  padding-left: 5%;
+  padding-top: 50px;
+  padding-bottom: 5%;
+}
+#center{
+  padding-right: 40%;
+}
+.you{
+  text-align: center;
+}
+.gift{
+  display: flex;
+  display:grid ; justify-content:center;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+.ex{
+  background-color: tomato;
+}
+.foot{
+  text-align: center;
+  background-color: black;
+  color: azure;
+  background-size: cover;
+}
+.t-stle{
+  font-family: 'The Nautigal', cursive;
+  color: crimson;
 }
